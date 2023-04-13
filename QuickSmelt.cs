@@ -7,7 +7,7 @@ using Random = UnityEngine.Random;
 
 namespace Oxide.Plugins
 {
-    [Info("Quick Smelt", "misticos", "5.1.5")]
+    [Info("Quick Smelt", "misticos, buna_shimeji", "5.1.5")]
     [Description("Increases the speed of the furnace smelting")]
     class QuickSmelt : RustPlugin
     {
