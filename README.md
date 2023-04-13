@@ -1,6 +1,6 @@
 # QuickSmelt
 
-This is a fork of the QuickSmelt plugin on uMod.
+This is a fork of the QuickSmelt plugin on uMod. (v5.1.5)
 
 https://umod.org/plugins/quick-smelt
 
